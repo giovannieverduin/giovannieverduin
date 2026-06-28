@@ -9,9 +9,9 @@
 
 ---
 
-I run strategy and innovation inside a bank. I also build.
+I run strategy and innovation inside a listed bank during the day. I build things at night.
 
-Most people in institutional finance talk about digital assets. Most people in crypto have never read a regulation. I sit in the gap - and I write code to prove the gap can close.
+Bankers love talking about digital assets, yet most never opened a non custodial wallet. The crypto crowd has never read a regulation in their lives. I sit in both camps - and I build, which is the part nobody expects.
 
 This profile is the build-in-public side of that. Real things, narrated honestly. Some of it works. Some of it is a prototype held together with intent.
 
@@ -24,7 +24,7 @@ This profile is the build-in-public side of that. Real things, narrated honestly
 
 ### What I actually do
 
-Founded an innovation lab and corporate VC for a listed bank. Led GCC's first bank-backed tokenized money market fund. Board seats across Central Asia, AI councils, innovation funds, the occasional UN side event. Twenty years, ten countries, one consistent bet: the institutions and the protocols are converging, and someone credible has to stand in both rooms.
+Founded an innovation lab and corporate VC for a listed bank. Led GCC's first bank-backed tokenized money market fund to get regulaotry approval. Board seats across Central Asia, AI councils, innovation funds, the occasional UN side event. Twenty years, ten countries, one consistent bet: the institutions and the protocols are converging, and someone credible has to stand in both rooms.
 
 ### Find me
 
