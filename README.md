@@ -9,7 +9,7 @@
 
 ---
 
-I run strategy and innovation inside a listed bank during the day. I build things at night.
+I run strategy and innovation inside a listed bank during the day. I build things in public whenever I'm not banking.
 
 Bankers love talking about digital assets, yet most never opened a non custodial wallet. The crypto crowd has never read a regulation in their lives. I sit in both camps - and I'd rather build than talk about it.
 
