@@ -23,7 +23,7 @@ This profile is the build-in-public side of that. Real things, narrated honestly
 
 ### What I actually do
 
-Founded an innovation lab and corporate VC for a listed bank. Led GCC's first bank-backed tokenized money market fund to get regulatory approval. Board seats across Central Asia, AI councils, innovation funds, the occasional UN side event. Twenty years, ten countries, one consistent bet: the institutions and the protocols are converging, and someone credible has to stand in both rooms.
+Founded an innovation lab and corporate VC for a listed bank. Led GCC's first bank-backed tokenized money market fund to get regulatory approval. Board seats across Central Asia, AI councils, innovation funds, the occasional UN side event. Twenty years, ten countries, one consistent bet: institutions, AI models and onchain protocols are converging, but until they do we need bridges and translators.
 
 ### ⭐ Currently building
 
