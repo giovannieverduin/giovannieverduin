@@ -32,6 +32,7 @@ Founded an innovation lab and corporate VC for a listed bank. Led GCC's first ba
 - 🧠 **The Panel** - a synthetic focus group. Multiple model lineages, blind-first independent round, forced dissent. Pre-research, not research replacement.
 - 📑 **The Whitepaper Translator** - turns institutional finance language into Web3, normie and back. My entire thesis as a tool.
 - 🏦 **Core Banking prototype** - a generic, illustrative core banking system. Built to find out how far one person can get.
+- 👗 **closet-kit** - a wardrobe app, stripped to an open starter kit. Bring your own closet. MIT, no support, just the engine.
 - 🪙 **Exit Liquidity** - a hyperrealistic tongue-in-cheek, potentially sarcastic crypto game. Not as serious but still seriously fun to build!
 
 ### Come find me online
